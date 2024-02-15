@@ -52,7 +52,7 @@ def main_run():
         localte_per_from_left = float(entry_left_local.get())
     
     if entry_top_local.get() == "":
-        localte_per_from_top = float(85)
+        localte_per_from_top = float(90)
     else:
         localte_per_from_top = float(entry_top_local.get())
 
